@@ -1,0 +1,19 @@
+{
+  "business_name": "Bloom Aesthetics Clinic",
+  "hours": "Monday to Saturday, 9am to 7pm",
+  "services": [
+    { "name": "Botox", "price_from": 200, "currency": "INR" },
+    { "name": "Fillers", "price_from": 250, "currency": "INR" },
+    { "name": "Consultation", "price_from": 0, "currency": "INR", "notes": "Free" }
+  ],
+  "booking": {
+    "channels": ["WhatsApp", "website"],
+    "cancellation_policy": "24 hours notice required"
+  },
+  "escalation_triggers": [
+    "complaint",
+    "medical question",
+    "pricing negotiation",
+    "more than 2 unanswered questions"
+  ]
+}

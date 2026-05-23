@@ -1,0 +1,87 @@
+Out of Scope Question:
+
+============================================================
+  Bloom Aesthetics Clinic — AI Support Agent
+  (Powered by Gemini · LangChain · LangGraph)
+  Type 'quit' to end session and receive a summary.
+============================================================
+
+You: Do you have a laser therapy for hair treatment
+
+
+Agent: I don't have information on that — let me connect you with our team who can help.
+
+============================================================
+  SESSION ENDED — Generating Summary...
+============================================================
+
+
+
+In Scope Question:
+
+============================================================
+  Bloom Aesthetics Clinic — AI Support Agent
+  (Powered by Gemini · LangChain · LangGraph)
+  Type 'quit' to end session and receive a summary.
+============================================================
+
+You: I would like to do a treatment here. Could you help me?
+
+Agent: Certainly! We offer Botox from £200 and Fillers from £250. We also provide free consultations. You can book your appointment via WhatsApp or our website. Please note that 24 hours’ notice is required for cancellations.
+
+Agent: Could I ask what brings you to Bloom Aesthetics today — is this your first time looking into aesthetic treatments?
+You: yes its first time
+
+Agent: Are you based locally in the area, or would you be travelling to visit us?
+You: yes i live 20 minutes away
+
+Agent: Is there a particular treatment you're most interested in, or would you like to explore your options during a free consultation?
+You: i would like to explore 
+
+Agent: Thank you — that's really helpful!
+
+You: quit
+
+============================================================
+  SESSION ENDED — Generating Summary...
+============================================================
+
+Your request has been noted our team will contact you shortly.
+
+Angry/Frustrated Response Question:
+
+============================================================
+  Bloom Aesthetics Clinic — AI Support Agent
+  (Powered by Gemini · LangChain · LangGraph)
+  Type 'quit' to end session and receive a summary.
+============================================================
+
+You: This is ridiculous you did not answer my question for 2 days
+
+Agent: I completely understand, and I want to make sure you get the best support. Let me connect you with one of our team members who can help you directly. Someone will be in touch with you shortly.
+
+============================================================
+  SESSION ENDED — Generating Summary...
+============================================================
+
+Your request has been noted our team will contact you shortly.
+
+
+
+In Depth Medical Question:
+
+============================================================
+  Bloom Aesthetics Clinic — AI Support Agent
+  (Powered by Gemini · LangChain · LangGraph)
+  Type 'quit' to end session and receive a summary.
+============================================================
+
+You: Could you tell me if you have laser treatment for hair implantation
+
+Agent: I don't have information on that — let me connect you with our team who can help.
+
+============================================================
+  SESSION ENDED — Generating Summary...
+============================================================
+
+Your request has been noted our team will contact you shortly.
