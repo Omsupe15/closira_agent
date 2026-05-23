@@ -16,10 +16,10 @@ Google Gemini, LangChain, and LangGraph.
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd closira-agent
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+git clone https://github.com/Omsupe15/closira_agent.git
+cd closira_agent
+python -m venv .venv
+source .venv/Scripts/activate      
 pip install -r requirements.txt
 ```
 
@@ -55,7 +55,7 @@ and generate a structured summary.
 | `data/sop.json` | SOP source of truth for Bloom Aesthetics Clinic |
 | `logs/escalations.log` | Timestamped escalation event log |
 | `logs/last_session_summary.txt` | Most recent session summary |
-| `test_transcripts/` | One sample conversation per expected behaviour |
+| `tests/` | One sample conversation per expected behaviour |
 | `prompt_design.md` | Full system prompts and design decisions |
 
 ## Dependencies
